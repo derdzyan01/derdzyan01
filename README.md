@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aren 👋
 
-<!--
-**derdzyan01/derdzyan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer from Yerevan, Armenia. I spent a year as a Junior Android Developer
+at SOLIT LLC on the Erakulis app, where I built features in Jetpack Compose, migrated
+XML screens to Compose, and did code reviews and CI/CD.
+I'm a 4th-year student at Yerevan State University (Informatics and Applied Mathematics).
 
-Here are some ideas to get you started:
+**Tech stack:** Kotlin · Jetpack Compose · Coroutines/Flow · MVVM / Clean Architecture · Dagger/Hilt · Retrofit · Room
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- [GitHubClient](https://github.com/derdzyan01/GitHubClient): multi-module Clean Architecture GitHub client (Hilt, Retrofit, Room)
+- [CalendarApp](https://github.com/derdzyan01/CalendarApp): day-view calendar with a custom Canvas timeline
+- [CalendarTodoApp](https://github.com/derdzyan01/CalendarTodoApp): Compose daily planner with drag-to-reorder
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/aren-derdzyan-309a15353)
